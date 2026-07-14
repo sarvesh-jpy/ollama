@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "local-ollama-node": {
+            "serverUrl": "http://localhost:8003/mcp/sse",
+            "headers": {
+                "X-API-Key": "viva-project-key"
+            }
+        }
+    }
+}
